@@ -1,8 +1,6 @@
-<div style="display: flex; justify-content: space-between;"> 
-  <h1>Allan Galdino
+  <h1 style="display: flex; justify-content: space-between; align-items: center;" >Allan Galdino
   <img src="https://github.com/GaldinoAllan/GaldinoAllan/blob/master/.github/octocat.png" alt="Octocat Allan" height="150"/>
   </h1>
-</div>
 
 ## Hi there 👋
 
