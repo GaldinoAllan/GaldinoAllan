@@ -1,6 +1,6 @@
 <div style="display: flex; justify-content: space-between;"> 
-<h1>Allan Galdino</h1>
-<img src="https://github.com/GaldinoAllan/GaldinoAllan/blob/master/.github/octocat.png" alt="Octocat Allan"/>
+  <h1>Allan Galdino</h1>
+  <img src="https://github.com/GaldinoAllan/GaldinoAllan/blob/master/.github/octocat.png" alt="Octocat Allan" style="height: 100px;"/>
 </div>
 
 ## Hi there 👋
