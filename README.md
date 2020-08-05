@@ -1,5 +1,10 @@
-  <h1 style="display: flex; justify-content: space-between; align-items: center;" >Allan Galdino
-  <img src="https://github.com/GaldinoAllan/GaldinoAllan/blob/master/.github/octocat.png" alt="Octocat Allan" height="150"/>
+  <h1 style="
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  ">
+    Allan Galdino
+    <img src="https://github.com/GaldinoAllan/GaldinoAllan/blob/master/.github/octocat.png" alt="Octocat Allan" height="150" style="margin-left: 64px"/>
   </h1>
 
 ## Hi there 👋
