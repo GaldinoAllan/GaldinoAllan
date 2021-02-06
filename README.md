@@ -1,14 +1,9 @@
-  <h1>
-    Allan Galdino
-  </h1>
-
-## Hi there 👋
+# Hi there 👋 Allan Galdino
 
 I love to solve problems with programming
 Frontend & mobile developer :computer:
 
-- 💻 My stack: ReactJS, React Native & Typescript
-- 👯 I’m looking to collaborate on open source projects with ReactJS and React Native
+- 👯 I’m looking to collaborate on open source projects
 - 📫 How to reach me:
   
   [![Linkedin Badge](https://img.shields.io/badge/-Gmail-d44638?style=flat-square&logo=Gmail&logoColor=white&link=mailto:galdinoallancodes@gmail.com )](mailto:galdinoallancodes@gmail.com)
